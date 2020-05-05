@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 80vh;
+}
+
+#output {
+    text-align: center;
+}
+
+label {
+    text-align: center;
+}
+
+h1 {
+color : teal
+}
+input {
+    padding: 8px;
+    border-radius: 8px;
+}
+
+button {
+    background-color: teal;
+    padding:5px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
